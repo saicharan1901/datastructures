@@ -53,6 +53,19 @@ If you liked working on this project, please share this project as much as you c
 ![GitHub language count](https://img.shields.io/github/languages/count/saicharan1901/datastructures?style=for-the-badge&color=brightgreen)
 <br><br>
 
+# Code of Conduct
+
+`CTRL+click` the GIF below
+
+<p><a href="https://github.com/saicharan1901/datastructures/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+<h1> Project Admin </h1>
+  
+<table>
+<tr>
+<td align="center"><a href="https://github.com/saicharan1901"><img src="https://avatars.githubusercontent.com/u/90904044?v=4" width=150px height=150px /></a></br> <h4 style="color:White;">P Sai Charan</h4>
+</tr>
+</table>
+
 ## Our Contributors
 
 <a href="https://github.com/saicharan1901/datastructures/graphs/contributors">
