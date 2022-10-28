@@ -53,7 +53,7 @@ If you liked working on this project, please share this project as much as you c
 ![GitHub language count](https://img.shields.io/github/languages/count/saicharan1901/datastructures?style=for-the-badge&color=brightgreen)
 <br><br>
 
-# Code of Conduct
+## Code of Conduct
 
 `CTRL+click` the GIF below
 
